@@ -25,7 +25,7 @@ Consider only the data for the year 2017 itself for your analysis, not the curre
 
  
 
-The data dictionary is available on this page.
+The data dictionary is available on this page - https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx
 
 
 The analysis can be divided into two parts:
